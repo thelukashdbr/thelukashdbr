@@ -1,11 +1,10 @@
 <h1 align="center">Olá, eu sou o Edward Dias 👋</h1>
-
-<h3 align="center">Analista de Integração & Suporte | Em transição para Dev Backend | João Pessoa, PB</h3>
-
+ 
+<h3 align="center">Analista de Integração & Suporte | Evoluindo para Integration Engineer | João Pessoa, PB</h3>
+ 
 <p align="center">
-  Trabalho no dia a dia com APIs, integrações e troubleshooting — e estou construindo, projeto a projeto, o caminho para atuar como desenvolvedor backend.
+  Trabalho no dia a dia com APIs, integrações, troubleshooting e suporte ao cliente — e estou aprofundando minhas habilidades de desenvolvimento (Python/FastAPI) para evoluir de Analista para Integration Engineer.
 </p>
-
 ---
 
 ### 👨‍💻 Sobre mim
@@ -21,8 +20,11 @@
 **[Integration Hub](https://github.com/thelukashdbr/integration-hub)**
 Plataforma backend para centralizar e facilitar integrações entre diferentes serviços e APIs — arquitetura de integração, autenticação e tratamento de requisições HTTP.
 
-**Books — API de Inventário de Livros**
+**[Books — API de Inventário de Livros](https://github.com/thelukashdbr/FastAPI-Practice---Book-list)**
 Projeto de estudo em FastAPI: setup de projeto, endpoints CRUD (POST/GET/PUT/DELETE), validação com Pydantic, tratamento de exceptions HTTP e status codes.
+
+**API Health Checker**
+Pequeno projeto de verificação de integridade de API - em andamento
 
 > Portfólio em construção — novos projetos sendo adicionados conforme avanço nos estudos.
 
@@ -48,5 +50,5 @@ Projeto de estudo em FastAPI: setup de projeto, endpoints CRUD (POST/GET/PUT/DEL
 
 ### 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU-USUARIO](https://www.linkedin.com/in/edward-lucas-dias-0bb47b1a2/))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lukasdiazf@gmail.com)
