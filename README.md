@@ -12,11 +12,11 @@
 
 ### 👨‍💻 About me
 
-🔗 I work as an Integration & Support Analyst at Órulo Sistemas de Informação, working with REST APIs, OAuth, credential creation/binding/testing, JSON/XML parsing, and webhook monitoring.
-📋 I handle customer support through Movidesk (Zenvia) and Digisac, where I organize tickets and metrics in a Kanban format.
-🔧 I take part in the dev team's weekly meetings and have direct access to their repository, where I push JSON configuration files via Git.
-🎓 Bachelor's degree in Computer Science — Centro Universitário de João Pessoa (UNIPÊ), Brazil.
-🌱 Currently learning: FastAPI, data validation with Pydantic, REST API best practices.
+- 🔗 I work as an **Integration & Support Analyst** at Órulo Sistemas de Informação, working with REST APIs, OAuth, credential creation/binding/testing, JSON/XML parsing, and webhook monitoring.
+- 📋 I handle customer support through Movidesk (Zenvia) and Digisac, where I organize tickets and metrics in a Kanban format.
+- 🔧 I take part in the dev team's weekly meetings and have direct access to their repository, where I push JSON configuration files via Git.
+- 🎓 Bachelor's degree in Computer Science — Centro Universitário de João Pessoa (UNIPÊ), Brazil.
+- 🌱 Currently learning: FastAPI, data validation with Pydantic, REST API best practices.
 
 ---
 
