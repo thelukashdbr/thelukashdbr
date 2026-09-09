@@ -12,7 +12,6 @@
 
 - 🔗 Atuo como **Analista de Integração e Suporte** na Órulo Sistemas de Informação, trabalhando com APIs REST, OAuth, criação/vinculação/teste de credenciais, leitura de JSON/XML e monitoramento de webhooks.
 - 🎓 Bacharel em Ciência da Computação pelo Centro Universitário de João Pessoa (UNIPÊ).
-- 🚀 Estou construindo um portfólio prático de desenvolvimento (partindo de Python/FastAPI) com o objetivo de atuar como dev backend em uma empresa estrangeira.
 - 🌱 Aprendendo, no momento: FastAPI, validação de dados com Pydantic, boas práticas de API REST.
 
 ---
