@@ -1,36 +1,39 @@
-<h1 align="center">Olá, eu sou o Edward Dias 👋</h1>
- 
-<h3 align="center">Analista de Integração & Suporte | Evoluindo para Integration Engineer | João Pessoa, PB</h3>
- 
+<p align="right"><b>🇺🇸 English</b> | <a href="README.pt-br.md">🇧🇷 Português</a></p>
+
+<h1 align="center">Hello, Edward Dias here 👋</h1>
+
+<h3 align="center">Integration & Support Analyst | Evolving into an Integration Engineer | João Pessoa, Brazil</h3>
+
 <p align="center">
-  Trabalho no dia a dia com APIs, integrações, troubleshooting e suporte ao cliente — e estou aprofundando minhas habilidades de desenvolvimento (Python/FastAPI) para evoluir de Analista para Integration Engineer.
+  I work daily with APIs, integrations, troubleshooting and customer support — and I'm deepening my development skills (Python/FastAPI) to grow from Analyst into Integration Engineer.
 </p>
----
-
-### 👨‍💻 Sobre mim
-
-- 🔗 Atuo como **Analista de Integração e Suporte** na Órulo Sistemas de Informação, trabalhando com APIs REST, OAuth, criação/vinculação/teste de credenciais, leitura de JSON/XML e monitoramento de webhooks.
-- 🎓 Bacharel em Ciência da Computação pelo Centro Universitário de João Pessoa (UNIPÊ).
-- 🌱 Aprendendo, no momento: FastAPI, validação de dados com Pydantic, boas práticas de API REST.
 
 ---
 
-### 🛠️ O que venho construindo
+### 👨‍💻 About me
+
+- 🔗 I work as an **Integration & Support Analyst** at Órulo Sistemas de Informação, working with REST APIs, OAuth, credential creation/binding/testing, JSON/XML parsing, and webhook monitoring.
+- 🎓 Bachelor's degree in Computer Science — Centro Universitário de João Pessoa (UNIPÊ), Brazil.
+- 🌱 Currently learning: FastAPI, data validation with Pydantic, REST API best practices.
+
+---
+
+### 🛠️ What I'm building
 
 **[Integration Hub](https://github.com/thelukashdbr/integration-hub)**
-Plataforma backend para centralizar e facilitar integrações entre diferentes serviços e APIs — arquitetura de integração, autenticação e tratamento de requisições HTTP.
+A platform to centralize and orchestrate integrations between different services and APIs — integration architecture, authentication, and HTTP request handling between systems.
 
-**[Books — API de Inventário de Livros](https://github.com/thelukashdbr/FastAPI-Practice---Book-list)**
-Projeto de estudo em FastAPI: setup de projeto, endpoints CRUD (POST/GET/PUT/DELETE), validação com Pydantic, tratamento de exceptions HTTP e status codes.
+**[Books — Book Inventory API](https://github.com/thelukashdbr/FastAPI-Practice---Book-list)**
+A FastAPI study project: project setup, CRUD endpoints (POST/GET/PUT/DELETE), Pydantic validation, HTTP exception handling and status codes.
 
 **API Health Checker**
-Pequeno projeto de verificação de integridade de API - em andamento
+A small API health-check project — in progress.
 
-> Portfólio em construção — novos projetos sendo adicionados conforme avanço nos estudos.
+> Portfolio in progress — new projects added as I keep learning.
 
 ---
 
-### 🧰 Stack & Tecnologias
+### 🧰 Stack & Technologies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -42,13 +45,13 @@ Pequeno projeto de verificação de integridade de API - em andamento
 
 ---
 
-### 🎓 Formação
+### 🎓 Education
 
-- Bacharelado em Ciência da Computação — Centro Universitário de João Pessoa (UNIPÊ), 2024
+- B.Sc. in Computer Science — Centro Universitário de João Pessoa (UNIPÊ), 2024
 
 ---
 
-### 📫 Onde me encontrar
+### 📫 Find me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edward-lucas-dias/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lukasdiazf@gmail.com)
