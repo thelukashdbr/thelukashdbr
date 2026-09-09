@@ -50,5 +50,5 @@ Pequeno projeto de verificação de integridade de API - em andamento
 
 ### 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU-USUARIO](https://www.linkedin.com/in/edward-lucas-dias-0bb47b1a2/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edward-lucas-dias/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lukasdiazf@gmail.com)
