@@ -12,11 +12,11 @@
 
 ### 👨‍💻 Sobre mim
 
-🔗 Atuo como Analista de Integração e Suporte na Órulo Sistemas de Informação, trabalhando com APIs REST, OAuth, criação/vinculação/teste de credenciais, leitura de JSON/XML e monitoramento de webhooks.
-📋 Realizo atendimentos de suporte via Movidesk (Zenvia) e Digisac, onde organizo chamados e métricas em formato Kanban.
-🔧 Participo das reuniões semanais do time de desenvolvimento e tenho contato direto com o repositório do time, onde insiro arquivos JSON de configuração via Git.
-🎓 Bacharel em Ciência da Computação pelo Centro Universitário de João Pessoa (UNIPÊ).
-🌱 Aprendendo, no momento: FastAPI, validação de dados com Pydantic, boas práticas de API REST.
+- 🔗 Atuo como **Analista de Integração e Suporte** na Órulo Sistemas de Informação, trabalhando com APIs REST, OAuth, criação/vinculação/teste de credenciais, leitura de JSON/XML e monitoramento de webhooks.
+- 📋 Realizo atendimentos de suporte via Movidesk (Zenvia) e Digisac, ferramentas que organizam chamados e métricas em formato Kanban.
+- 🔧 Participo das reuniões semanais do time de desenvolvimento e tenho contato direto com o repositório do time, onde insiro arquivos JSON de configuração via Git.
+- 🎓 Bacharel em Ciência da Computação pelo Centro Universitário de João Pessoa (UNIPÊ).
+- 🌱 Aprendendo, no momento: FastAPI, validação de dados com Pydantic, boas práticas de API REST.
 
 ---
 
